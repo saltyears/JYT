@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:concat-stream:1.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/concat-stream/1.6.0/487c8c6a252cf497deb29dd102e709bb68f47d5d/concat-stream-1.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/concat-stream/1.6.0/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/concat-stream-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

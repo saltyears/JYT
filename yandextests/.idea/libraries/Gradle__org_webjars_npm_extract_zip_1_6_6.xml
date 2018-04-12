@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:extract-zip:1.6.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/extract-zip/1.6.6/d0f7f5858e4d2263d73b7cbddecb1703698b0744/extract-zip-1.6.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/extract-zip/1.6.6/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/extract-zip-1.6.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

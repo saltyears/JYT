@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:aws4:1.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/aws4/1.6.0/ec13dc3d214ace18199cbb2b4ea81318ea1eb4a1/aws4-1.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/aws4/1.6.0/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/aws4-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

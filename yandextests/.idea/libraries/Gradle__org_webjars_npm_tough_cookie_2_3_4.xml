@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:tough-cookie:2.3.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/tough-cookie/2.3.4/1f45707b42abde800cec4c59074f5f7a82ae61ff/tough-cookie-2.3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/tough-cookie/2.3.4/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/tough-cookie-2.3.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

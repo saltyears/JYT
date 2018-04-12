@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:co:4.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/co/4.6.0/4c3e417b7d31b18978ccb6cc09e723f3b7381635/co-4.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/co/4.6.0/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/co-4.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

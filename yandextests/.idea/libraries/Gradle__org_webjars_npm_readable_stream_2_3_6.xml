@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:readable-stream:2.3.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/readable-stream/2.3.6/2acfd1c208807137c0c98b0ea7c59803a1424d5f/readable-stream-2.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/readable-stream/2.3.6/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/readable-stream-2.3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:sshpk:1.14.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/sshpk/1.14.1/d5a1ecbf9d4e8f0b2e26c66e5b9edb8bd4974f0e/sshpk-1.14.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/sshpk/1.14.1/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/sshpk-1.14.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:pinkie:2.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/pinkie/2.0.4/bda6f602b9bcec5abcfaacec5c82ffe2870f4c69/pinkie-2.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/pinkie/2.0.4/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/pinkie-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

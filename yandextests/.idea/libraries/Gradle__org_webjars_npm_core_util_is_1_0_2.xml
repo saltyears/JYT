@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:core-util-is:1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/core-util-is/1.0.2/e393eaf7e0fc883ce691cc9479d8a398ed1cd735/core-util-is-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/core-util-is/1.0.2/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/core-util-is-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

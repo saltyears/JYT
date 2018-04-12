@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:performance-now:2.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/performance-now/2.1.0/3d4c7b7ed9629647128c1305be6e618e73b3e2d2/performance-now-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/performance-now/2.1.0/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/performance-now-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

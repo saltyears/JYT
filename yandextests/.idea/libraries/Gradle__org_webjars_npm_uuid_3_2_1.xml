@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:uuid:3.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/uuid/3.2.1/466d8974ca56fc927441bb6b65f7973d25f5fab0/uuid-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/uuid/3.2.1/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/uuid-3.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

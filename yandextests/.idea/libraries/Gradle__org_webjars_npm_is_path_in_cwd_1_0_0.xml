@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:is-path-in-cwd:1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/is-path-in-cwd/1.0.0/500a22c466a4bd48ac73ad16ecb0f6bc70bc9b6d/is-path-in-cwd-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/is-path-in-cwd/1.0.0/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/is-path-in-cwd-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
